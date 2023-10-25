@@ -1,14 +1,14 @@
 #git operations
-# calc
+# gitfsd
 #all git operarions
-purvs@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react
+aarav@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react
 $ git init
 Initialized empty Git repository in E:/calculator-app-in-react/.git/
 
-purvs@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
+aarav@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
 $ git add .
 
-purvs@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
+aarav@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
 $ git commit -m 'your message'
 [master (root-commit) 6348a31] your message
  17 files changed, 27546 insertions(+)
@@ -30,11 +30,11 @@ $ git commit -m 'your message'
  create mode 100644 src/index.jsx
  create mode 100644 yarn.lock
 
-purvs@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
-$ git remote add origin https://github.com/purrvvvv/calc.git
+aarav@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
+$ git remote add origin https://github.com/aarav/calc.git
 
 
-purvs@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
+aarav@LAPTOP-Q0API0QC MINGW64 /e/calculator-app-in-react (master)
 $ git push -u origin master
 Enumerating objects: 24, done.
 Counting objects: 100% (24/24), done.
@@ -44,7 +44,7 @@ Writing objects: 100% (24/24), 350.82 KiB | 7.80 MiB/s, done.
 Total 24 (delta 0), reused 0 (delta 0), pack-reused 0
 remote: 
 remote: Create a pull request for 'master' on GitHub by visiting:
-remote:      https://github.com/purrvvvv/calc/pull/new/master
+remote:      https://github.com/aarav/calc/pull/new/master
 remote:
 To https://github.com/purrvvvv/calc.git
  * [new branch]      master -> master
